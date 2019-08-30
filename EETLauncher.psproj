@@ -1,0 +1,12 @@
+﻿<Project Synchronized="False" SyncFilter="*.ps1;*.psm1;*.psd1;*.psxml;*.psf;*.pss;*.xml">
+  <Version>2.1</Version>
+  <FileID>87570d3a-b22f-4c07-b388-ae92f70e7bf0</FileID>
+  <ProjectType>0</ProjectType>
+  <Folders />
+  <Files>
+    <File Build="0">Startup.pss</File>
+    <File Build="0" Shared="True" ReferenceFunction="Invoke-EETLauncher_Globals_ps1">EETLauncher_Globals.ps1</File>
+    <File Build="0" ReferenceFunction="Show-EETLauncher_Main_psf">EETLauncher_Main.psf</File>
+    <File Build="0" ReferenceFunction="Show-EETLauncher_Settings_psf">EETLauncher_Settings.psf</File>
+  </Files>
+</Project>
