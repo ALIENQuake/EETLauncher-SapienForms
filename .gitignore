@@ -7,20 +7,13 @@ bin/
 *.psprojs
 
 *.bak
-*.tmp
-*.bak
 *.lnk
-Thumbs.db
-ehthumbs.db
-
+*.tmp
 *.7z
 *.rar
 *.zip
 *.tar.gz
 
+Thumbs.db
+
 .DS_Store
-.AppleDouble
-.LSOverride
-.AppleDB
-.AppleDesktop
-.apdisk
